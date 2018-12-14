@@ -1,7 +1,7 @@
 '''
 Author: Jorge Bautista
 Description: Implemntation of the coin collection problem found in Algorithims Design and Analysis
-						 Using Dynamic Programming
+Using Dynamic Programming
 Date: Dec 13, 2018
 '''
 
